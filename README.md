@@ -5,7 +5,7 @@ Konversi gambar adalah salah satu tahap dalam pengolahan citra yang bertujuan un
 
 Library yang digunakan:
 
-- cv2: OpenCV (Open Source Computer Vision) adalah pustaka fungsi pemrograman yang terutama ditujukan untuk visi komputer waktu nyata. Library ini menyediakan berbagai macam fungsi untuk pemrosesan gambar dan video, termasuk pemfilteran gambar, deteksi fitur, pengenalan objek, dan banyak lagi. Perpustakaan cv2 adalah pembungkus Python untuk perpustakaan OpenCV, yang memungkinkan pengembang untuk menggunakan fungsi OpenCV dalam kode Python.
+- cv2: OpenCV (Open Source Computer Vision) adalah library fungsi pemrograman yang terutama ditujukan untuk visi komputer waktu nyata. Library ini menyediakan berbagai macam fungsi untuk pemrosesan gambar dan video, termasuk pemfilteran gambar, deteksi fitur, pengenalan objek, dan banyak lagi. Perpustakaan cv2 adalah pembungkus Python untuk perpustakaan OpenCV, yang memungkinkan pengembang untuk menggunakan fungsi OpenCV dalam kode Python.
 - NumPy: NumPy adalah library Python yang digunakan untuk bekerja dengan array. NumPy menyediakan objek array N-dimensi yang kuat, serta fungsi-fungsi untuk bekerja dengan array ini. NumPy sering digunakan dalam pemrosesan gambar dan aplikasi visi komputer untuk tugas-tugas seperti pemfilteran gambar, ekstraksi fitur, dan banyak lagi.
 
 Penjelasan penyelesaian Konversi Gambar yang digunakan di skrip:
